@@ -1,6 +1,6 @@
 # DevOps Capstone - Task Manager API platform
 
-**Harsh Sen · Roll No. 2301730194 · DevOps and Automation Lab **
+**Pranay Bhatnagar · Roll No. 2301730173 · DevOps and Automation Lab **
 
 An end-to-end DevOps automation platform that takes a Flask + PostgreSQL REST API from **code commit to production on Kubernetes**, with observability, security and recoverability built in.
 
